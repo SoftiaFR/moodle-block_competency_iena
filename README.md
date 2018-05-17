@@ -1,4 +1,8 @@
 
+![Build status: master](https://travis-ci.org/scara/moodle-local_twittercard.svg?branch=master)
+![PHP](https://img.shields.io/badge/PHP-v5.6%20%2F%20v7.0%20%2F%20v7.1%20%2F%20v7.2-blue.svg)
+![Moodle](https://img.shields.io/badge/Moodle-v3.3%20to%20v3.4-orange.svg)
+
 # Competency
   
 This Moodle plugin define the competency management block.
